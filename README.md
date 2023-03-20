@@ -1,1 +1,1 @@
-# nest-react-recaptcha
+# NX + Nest + React + Recaptcha example
